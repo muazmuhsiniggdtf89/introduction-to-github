@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        h1{
+            color: rosybrown ; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        }
+        #m1{ color: aquamarine; font-size: 70px;}
+    #para{ color: bisque; font-family:Verdana, Geneva, Tahoma, sans-serif ; font-size: 90px;}
+    </style>
+</head>
+<body>
+    <p id="para"> Never Give Up</p>
+    <h1>Be the best whatever You are</h1>
+    <h1 id="m1">industry</h1>
+</body>
+</html>
